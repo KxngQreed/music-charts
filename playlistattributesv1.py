@@ -26,7 +26,7 @@ sp = spotipy.Spotify(auth_manager=SpotifyOAuth(client_id=SPOTIPY_CLIENT_ID,
 
 # Get the playlist ID and user-defined directory
 playlist_id = '37i9dQZF1DWWWXigQZAD8B'
-file_path = "C:/Users/Reagan/Desktop/code/musiccharts/pa3.xlsx"
+file_path = "input_actial_file_path_here/output.xlsx"
 
 # Extract the directory from the file path
 directory = os.path.dirname(file_path)
