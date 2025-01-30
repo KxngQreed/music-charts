@@ -146,10 +146,10 @@ print(f"Data has been saved to {file_path}")
 
 ## Features
 
-- Extracts detailed information about tracks from a Spotify playlist.
+- Extracts detailed information about the top tracks from a Spotify playlist.
 - Fetches metadata, audio features, and artist details.
 - Saves the extracted data to an Excel file.
-
+- Uses environment variables for secure credential management.
 ## Contributing
 
 If you'd like to contribute to this project, please follow these steps:
