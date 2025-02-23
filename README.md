@@ -74,5 +74,5 @@ This project is licensed under the MIT License.
 
 ## Author
 
-[Your Name] - 2024
+[Kxng Qreed] - 2025
 
